@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//lex-nagorny.github.io/hwork/static/css/main.073c9b0a.css",
-    "main.js": "/https//lex-nagorny.github.io/hwork/static/js/main.b048609a.js",
-    "static/js/787.177e23c2.chunk.js": "/https//lex-nagorny.github.io/hwork/static/js/787.177e23c2.chunk.js",
-    "index.html": "/https//lex-nagorny.github.io/hwork/index.html",
-    "main.073c9b0a.css.map": "/https//lex-nagorny.github.io/hwork/static/css/main.073c9b0a.css.map",
-    "main.b048609a.js.map": "/https//lex-nagorny.github.io/hwork/static/js/main.b048609a.js.map",
-    "787.177e23c2.chunk.js.map": "/https//lex-nagorny.github.io/hwork/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/hwork/static/css/main.073c9b0a.css",
+    "main.js": "/hwork/static/js/main.d15419a3.js",
+    "static/js/787.177e23c2.chunk.js": "/hwork/static/js/787.177e23c2.chunk.js",
+    "index.html": "/hwork/index.html",
+    "main.073c9b0a.css.map": "/hwork/static/css/main.073c9b0a.css.map",
+    "main.d15419a3.js.map": "/hwork/static/js/main.d15419a3.js.map",
+    "787.177e23c2.chunk.js.map": "/hwork/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b048609a.js"
+    "static/js/main.d15419a3.js"
   ]
 }
